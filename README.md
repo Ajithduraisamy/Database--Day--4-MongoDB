@@ -1,11 +1,4 @@
-Design database for Zen class programme
-users
-codekata
-attendance
-topics
-tasks
-company_drives
-mentors
+Design database for Zen class programme (users,codekata,attendance,topics,tasks,company_drives,mentors)
 
 Find all the topics and tasks which are thought in the month of October
 Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
